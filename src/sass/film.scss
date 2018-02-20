@@ -1,0 +1,18 @@
+.film--list {
+  // display: flex;
+
+  .film--image {
+    max-width: 214px;
+    max-height: 314px;
+    height: 100%;
+    margin: 0 5px;
+  }
+
+  .film--title {
+    margin: 0 5px;
+  }
+}
+
+.slick-slide {
+  width: 225px!important;
+}
