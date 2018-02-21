@@ -1,16 +1,1 @@
-@import url(~slick-carousel/slick/slick.css);
-@import url(~slick-carousel/slick/slick-theme.css);
-ul, li {
-  list-style: none; }
-
-.film--list .film--image {
-  max-width: 214px;
-  max-height: 314px;
-  height: 100%;
-  margin: 0 5px; }
-
-.film--list .film--title {
-  margin: 0 5px; }
-
-.slick-slide {
-  width: 225px !important; }
+@import url(~slick-carousel/slick/slick.css);@import url(~slick-carousel/slick/slick-theme.css);li,ul{list-style:none}.film--list .film--image{max-width:214px;max-height:314px;height:100%;margin:0 5px}.film--list .film--title{margin:0 5px}.slick-slide{width:225px!important}.slider-frame{height:60vh!important}

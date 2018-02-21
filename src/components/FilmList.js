@@ -7,7 +7,7 @@ const FilmList = ({films, loading}) => {
     return (<div>Loading...</div>)
   } else {
     return (
-      <div class="film--list">
+      <div className="film--list">
         <Carousel slidesToShow={6.3}>
           { films.map(film => {
             return (

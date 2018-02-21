@@ -4,7 +4,7 @@ const Film = ({title, imageLink}) => {
   return (
     <div>
       <img className="film--image" src={imageLink}/>
-      <p class="film--title">{title}</p>
+      <p className="film--title">{title}</p>
     </div>
   );
 }
